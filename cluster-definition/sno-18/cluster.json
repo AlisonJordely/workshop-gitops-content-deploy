@@ -1,0 +1,10 @@
+{
+  "environment": "dev",
+  "cloud": "aws",
+  "project": "project-sno-18",
+  "region": "eu-central-1",
+  "cluster": {
+    "name": "sno-18",
+    "address": "https://api.sno-18.<domain>:6443"
+  }
+}
